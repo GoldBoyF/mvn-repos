@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 25 01:07:32 CST 2016
+goldskyer-common-1.6.0.0-SNAPSHOT.jar>=
+goldskyer-common-1.6.0.0-SNAPSHOT-sources.jar>=
+goldskyer-common-1.6.0.0-SNAPSHOT.pom>=
+goldskyer-common-1.6.0.0-SNAPSHOT-javadoc.jar>=
+goldskyer-common-1.6.0.0-20161224.075130-4.jar>nexus-releases=
+goldskyer-common-1.6.0.0-20161224.075130-4.pom>nexus-releases=

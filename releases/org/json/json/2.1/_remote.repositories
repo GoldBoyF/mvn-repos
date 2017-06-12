@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 15:08:06 CST 2016
+json-2.1.jar>=
+json-2.1.pom>nexus-releases=
+json-2.1.jar>nexus-releases=

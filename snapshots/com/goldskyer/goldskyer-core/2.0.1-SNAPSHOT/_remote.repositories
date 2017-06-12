@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 02 10:38:28 CST 2017
+goldskyer-core-2.0.1-SNAPSHOT.jar>=
+goldskyer-core-2.0.1-SNAPSHOT-sources.jar>=
+goldskyer-core-2.0.1-SNAPSHOT.pom>=
+goldskyer-core-2.0.1-20170208.080752-1.jar>nexus-releases=
+goldskyer-core-2.0.1-SNAPSHOT-javadoc.jar>=
+goldskyer-core-2.0.1-20170208.080752-1.pom>nexus-releases=

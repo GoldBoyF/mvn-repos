@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 15:08:06 CST 2016
+wmqtt-1.0.jar>=
+wmqtt-1.0.pom>nexus-releases=
+wmqtt-1.0.jar>nexus-releases=

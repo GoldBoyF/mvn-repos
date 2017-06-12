@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 09 09:00:18 CST 2017
+@default-YOUR-PROJECT-NAME-mvn-repo-https\://raw.githubusercontent.com/GoldBoyF/mvn-repos/master/releases/.lastUpdated=1496970018833
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1496970018835
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.goldskyer\:goldskyer-common\:pom\:${jar_version} from/to central (https\://repo.maven.apache.org/maven2)\: Illegal character in path at index 69\: https\://repo.maven.apache.org/maven2/com/goldskyer/goldskyer-common/${jar_version}/goldskyer-common-${jar_version}.pom
+https\://raw.githubusercontent.com/GoldBoyF/mvn-repos/master/releases/.error=Could not transfer artifact com.goldskyer\:goldskyer-common\:pom\:${jar_version} from/to YOUR-PROJECT-NAME-mvn-repo (https\://raw.githubusercontent.com/GoldBoyF/mvn-repos/master/releases)\: Illegal character in path at index 101\: https\://raw.githubusercontent.com/GoldBoyF/mvn-repos/master/releases/com/goldskyer/goldskyer-common/${jar_version}/goldskyer-common-${jar_version}.pom

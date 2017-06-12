@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.goldskyer</groupId>
+  <artifactId>goldskyer-common</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.0.0-SNAPSHOT</version>
+      <version>2.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170208080745</lastUpdated>
+  </versioning>
+</metadata>
