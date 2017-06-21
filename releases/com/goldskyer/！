@@ -1,0 +1,108 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+192.30.255.113 github.global.ssl.fastly.net
+120.25.253.90 nexus.goldskyer.com
+#10.240.88.85 xcxx.szgm.edu.cn
+110.65.138.102 jm.goldskyer.com
+#110.65.138.131 xcxxback.goldskyer.com
+#10.240.88.85 epay.163.com
+123.58.185.252 zadmin.ms.netease.com
+
+110.65.138.102 db.inner.com
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+#121.40.183.80 nexus.goldskyer.com
+# localhost name resolution is handled within DNS itself.
+ 127.0.0.1 localhost
+#	::1 localhost
+
+#123.58.185.44	signv25.163.com
+#123.58.185.47 newsign.inter.163.com
+#223.252.220.47 newsign.inter.163.com
+223.252.220.44 newsign.inter.163.com
+
+#223.252.220.49 help.epay.163.com
+
+#123.58.185.47 sign.inter.163.com
+#123.58.185.40	epay.163.com
+223.252.220.36 memcached.epay.163.com
+
+#123.58.185.62	memcached.epay.163.com
+
+#223.252.220.180 epay.163.com
+223.252.220.47	payments.ps.netease.com
+223.252.220.44	payments.163.com
+#223.252.220.47	payments.163.com
+
+#123.58.185.41	payments.163.com
+#123.58.185.88	payments.163.com
+#223.252.220.47	newsign.inter.163.com
+
+106.2.44.179 platform.epay.163.com
+#106.2.44.179 epay.163.com
+106.2.44.179 api.epay.163.com
+#106.2.44.179 test.i.epay.126.net
+223.252.220.35 test.i.epay.126.net
+
+#106.2.44.179 help.epay.163.com
+106.2.44.179 accounting.ms.netease.com
+106.2.44.179 boss.epay.163.com
+106.2.44.179 workflow.epay.163.com
+
+
+# ==== epay TEST
+#123.58.185.30	epay.163.com
+#123.58.185.40	epay.163.com
+#123.58.185.45	epay.163.com
+#223.252.220.47	epay.163.com
+#123.58.185.64	epay.163.com
+#223.252.220.35 epay.163.com
+223.252.220.36 epay.163.com
+#223.252.220.45 epay.163.com
+#10.240.34.88 epay.163.com
+# ==== epay OTHER
+
+#114.113.198.186 piao.163.com
+
+#商城测试环境
+223.252.197.26 shop.163.com
+#223.252.197.26 mall.163.com
+#223.252.197.26 pimg1.126.net
+#223.252.197.26 pimg2.126.net
+
+
+#223.252.220.45 epay.ps.netease.com
+#123.58.185.40 epay.ps.netease.com
+223.252.220.35 epay.ps.netease.com
+#127.0.0.1 epay.ps.netease.com
+#123.58.185.47 payments.ps.netease.com
+#123.58.185.44 payments.ps.netease.com
+#223.252.197.26	caipiao.163.com
+#123.58.185.68 8.163.com
+
+
+#123.58.185.54 fund.epay.163.com
+#223.252.220.35 fund.epay.163.com
+#123.58.185.35 fund.epay.163.com
+#220.181.75.106 reg.163.com
+#223.252.197.101 reg.163.com
+
+#123.58.185.35 service.ms.netease.com
+#123.58.185.36 service.ms.netease.com
+#123.58.185.47 service.ms.netease.com
+
+223.252.220.53    jf.epay.163.com
+127.0.0.1 windows10.microdone.cn
